@@ -1,1 +1,1 @@
-include: .well-known .well-known/keybase.txt
+include: ['.well-known']

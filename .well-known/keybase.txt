@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/kirbyt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kirbyturner.com
+  * I am kirbyt (https://keybase.io/kirbyt) on keybase.
+  * I have a public key with fingerprint B3BB C9B9 818F 9779 2145  3AA3 B13B F84F 586F 23FB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b3bbc9b9818f977921453aa3b13bf84f586f23fb",
+            "host": "keybase.io",
+            "key_id": "b13bf84f586f23fb",
+            "uid": "c08f232ce8f673b6958003e619c8f200",
+            "username": "kirbyt"
+        },
+        "service": {
+            "hostname": "kirbyturner.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396023263,
+    "expire_in": 157680000,
+    "prev": "e4c436e89dd5a3046548b922900c14b94c1eace2783c685148f87c7a207ff096",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHuAnicZZFtSBR5HMd3q/VhK42IEDooRgpTs5mdp/+sGIoaF5nmQ9SltMz89z/r
+oM6ss7PatgiHhy+s6FJWOsXo4YrIF4H1wpPSFpFOsAfFDULlis41OUmzF4uZlP+R
+enH0apjvw+f3+/Ef3rrRYrf2Zi+XnNJSP1tHwx/9lnL22usgIWnuAOEMEjVo/SMr
+qgfpXl1RDcJJSLQkQUESAAVkgecFB8WwtCjSEkVLMmBkFnCyg5YlIpOo1nxmA2Mk
+0YeyFA1r+MeluE3Oj3n/ugFJgAUHREDmeFriBBaQJI04SoDYIEkz6EO6KtYhE67o
+UsAgmjIJrDUoEGvB9cH/8/26ivQsqNXhslfXDA1qtdisNgyv0+waAa8ZbkSS6xvG
+JSmqGx+OCw1I9ymaSjgpnISGYnIpWuBIvCVHZxLorFfRkUsxEyzP4W1J0hyDGjAS
+MZChOQQEt5sVaZLhWAZIgsMhkCSkGElgIIVEiBw8oCEHWIoBMuAhLzpIXpZJgcPz
+fahe1Qgng9cUPRjpUzyqiE9CRNNQuGqTxWq3xNk2mE9nsSdu+/6g6EWCpf3rhbj0
+UI71Usu7FOb5xXtFRQ9O9ha08DVplV+uzs70Z6w0Htdt0ylFd2aMnCEwnmaxz18v
+yA6GFu8WU627zxRsritNniAjY7fvv/xtrCfn1kwzeB/5tad2oO9nkJjbzf+zPN7c
+WpjXP9Dflzr6LOSvkBv/nX84+9Q2+SY8/jb6eCo0eOPwk87C4khtd8mBK6tHxF0J
+e87tPLT3styRFD8crVqd+5RVCtPgwb//XDi/pa0rrnKlPKpry64u235/UiA3/Y+x
+6OlfTmQvhkt21Fdsn0r4EOMjP43kv4qVDU3D5ozJPE91+7F98ZG5kc7f84/+NxH7
+ayk51ra0cLPs0WDHGi28Gb4=
+=IiKA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kirbyt
+
+==================================================================

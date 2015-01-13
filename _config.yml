@@ -1,1 +1,10 @@
+url: https://www.kirbyturner.com
+baseurl: 
+
+# Site Settings
+title: Kirby Turner
+author: Kirby Turner
+description: "Kirby Turner is an independent software developer, author, and owner of White Peak Software Inc. Kirby focuses Mac and iOS programming."
+keywords: "ios, mac, programming, stowe, vt, vermont, cocoa"
+
 include: [".well-known"]

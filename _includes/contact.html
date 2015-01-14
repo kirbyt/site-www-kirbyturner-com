@@ -2,20 +2,14 @@
     <section id="contact" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
+                <h2>Contact</h2>
+                <p>Send me an email if you would like to get in touch, hire me for your next project, have questions or feedback on my apps, or just want to say hello.</p>
+                <p><a href="mailto:&#107;&#105;&#114;&#098;&#121;&#064;&#116;&#104;&#101;&#099;&#097;&#118;&#101;&#046;&#099;&#111;&#109;">&#107;&#105;&#114;&#098;&#121;&#064;&#116;&#104;&#101;&#099;&#097;&#118;&#101;&#046;&#099;&#111;&#109;</a>
                 </p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+                    {% endfor %}
                 </ul>
             </div>
         </div>

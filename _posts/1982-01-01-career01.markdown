@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1982
+subtitle:
+image: "img/career/1982.jpg"
+---
+Started programming on a [Timex Sinclair 1000][1] (TS1000), which I still own.
+
+[1]: http://en.wikipedia.org/wiki/Timex_Sinclair_1000

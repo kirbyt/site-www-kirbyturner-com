@@ -7,6 +7,9 @@ author: Kirby Turner
 description: "Kirby Turner is an independent software developer, author, and owner of White Peak Software Inc. Kirby focuses Mac and iOS programming."
 keywords: "ios, mac, programming, stowe, vt, vermont, cocoa"
 
+# Career Settings
+career-img: "img/career/default.jpg"
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: adn

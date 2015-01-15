@@ -1,0 +1,7 @@
+---
+layout: null
+title: 1995
+subtitle:
+image: "img/career/1995.jpg"
+---
+Started programming with Delphi - bye bye VB.

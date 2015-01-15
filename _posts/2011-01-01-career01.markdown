@@ -1,0 +1,12 @@
+---
+layout: null
+title: 2011
+subtitle:
+image: "img/career/2011.png"
+---
+Authored the book [Learning iPad Programming][1] published by Addison Wesley. Released [PhotoWheel][2] as part of the book. Spoke at [VTM][3] and [360idev][4] conferences.
+
+[1]: http://www.learningipadprogramming.com/
+[2]: http://www.photowheelapp.com
+[3]: http://voicesthatmatter.com/
+[4]: http://360idev.com/

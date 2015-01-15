@@ -1,0 +1,9 @@
+---
+layout: null
+title: 2007
+subtitle:
+image: "img/career/2007.png"
+---
+Released [Killink CSV Editor][1], White Peak Software's second product. I also switched from being a Windows user to a Mac user, and I started writing Mac software for internal use.
+
+[1]: http://whitepeaksoftware.com/main/killink-csv-editor/index

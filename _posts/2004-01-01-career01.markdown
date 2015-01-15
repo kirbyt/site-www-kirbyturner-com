@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2004
+subtitle:
+image: "img/career/2004.png"
+---
+Started full time work at White Peak Software doing contract programming and consulting.

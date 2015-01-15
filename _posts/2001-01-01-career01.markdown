@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2001
+subtitle:
+image: "img/career/2001.jpg"
+---
+Joined Avanade, a joint venue between Microsoft and Accenture. I specialized in the mobile solutions then later switched focus to web services leveraging Microsoft technologies.

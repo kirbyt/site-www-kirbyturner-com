@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2000
+subtitle:
+image: "img/career/2000.gif"
+---
+Moved to New York, joined a mobile startup, dyed my hair green, flew countless trips between NYC and SFO.

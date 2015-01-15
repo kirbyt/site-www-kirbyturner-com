@@ -1,0 +1,7 @@
+---
+layout: null
+title: 1992
+subtitle:
+image: "img/career/1992.jpg"
+---
+Moved from Memphis to St. Louis and started programming for Windows using Microsoft C and later Visual C++.

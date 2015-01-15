@@ -1,0 +1,7 @@
+---
+layout: null
+title: 1997
+subtitle: Or was it 1998?
+image: "img/career/1997.gif"
+---
+Started writing web applications with ASP.

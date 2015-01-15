@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2014
+subtitle:
+image: "img/career/2014.png"
+---
+Need to write up my accomplishments for 2014.

@@ -1,0 +1,9 @@
+---
+layout: null
+title: 2008
+subtitle:
+image: "img/career/2008.jpg"
+---
+Started iOS development and released White Peak Software's first iOS app [Labor Mate][1].
+
+[1]: http://whitepeaksoftware.com/main/labor-mate/index

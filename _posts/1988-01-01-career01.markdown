@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1988
+subtitle:
+image: 
+---
+Started programming in CADOL on [CADO Systems][1].
+
+[1]: http://en.wikipedia.org/wiki/CADO_Systems

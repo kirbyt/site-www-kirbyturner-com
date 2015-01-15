@@ -1,0 +1,10 @@
+---
+layout: null
+title: 2012
+subtitle:
+image: "img/career/2012.png"
+---
+Released an iPad programming training video called [Learning iPad Programming][1], which is based on the book of the same name. Completed the manuscript for the second edition of the [Learning iPad Programming][2] book. Released three new apps to the App Store for clients.
+
+[1]: http://my.safaribooksonline.com/video/programming/ipad/9780132981163?bookview=overview
+[2]: http://www.learningipadprogramming.com/

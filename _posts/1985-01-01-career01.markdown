@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1985
+subtitle:
+image: "img/career/1985.jpg"
+---
+First job as a programmer writing business applications in Pascal for the [Apple IIe][1].
+
+[1]: http://en.wikipedia.org/wiki/Apple_iie

@@ -1,0 +1,7 @@
+---
+layout: null
+title: 1998
+subtitle:
+image: 
+---
+First attempt at being indie. Made $200 from my app Desktop Maid. Paid bills with contract projects.

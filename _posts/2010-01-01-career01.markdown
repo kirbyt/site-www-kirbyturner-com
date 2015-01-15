@@ -1,0 +1,11 @@
+---
+layout: null
+title: 2010
+subtitle:
+image: "img/career/2010.png"
+---
+Released [Hey Peanut][1], White Peak Software's fourth application and the second iOS app. I became much more active in the Cocoa developer community, attending and speaking at conferences, meet ups and CocoaHeads, and started my own group called [NSHappyHour][2]. I also started writing a [book][3] on learning iPad programming.
+
+[1]: http://whitepeaksoftware.com/main/hey-peanut/index
+[2]: http://nshappyhour.org/
+[3]: http://www.learningipadprogramming.com/

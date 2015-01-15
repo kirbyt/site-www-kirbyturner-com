@@ -24,4 +24,5 @@ social:
     url: http://www.thecave.com/atom.xml
 
 
+exclude: ["Rakefile"]
 include: [".well-known"]

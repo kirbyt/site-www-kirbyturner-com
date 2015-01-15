@@ -4,4 +4,9 @@ title: 2014
 subtitle:
 image: "img/career/2014.png"
 ---
-Need to write up my accomplishments for 2014.
+Worked on and released nearly a dozen iOS apps for clients including [WeaverPix][1] and [iCE at TJU][2], a new eLearning app for the iPad. Also released [White Peak Software][4]'s seventh app, [Cross Post][3].
+
+[1]: https://www.chillidogsoftware.com/chillidog-software-mac-ios-apps/chillidog-software-weaverpix-ios/
+[2]: https://itunes.apple.com/us/app/ice-at-tju/id893651047?mt=8
+[3]: http://www.whitepeaksoftware.com/cross-post
+[4]: http://www.whitepeaksoftware.com/

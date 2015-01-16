@@ -25,4 +25,3 @@ social:
 
 
 exclude: ["Rakefile"]
-include: [".well-known"]

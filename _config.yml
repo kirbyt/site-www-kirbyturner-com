@@ -3,26 +3,12 @@ baseurl:
 
 # Site Settings
 title: Kirby Turner
-author: Kirby Turner
 description: "Kirby Turner is an independent software developer, author, and owner of Stowe, VT-based White Peak Software Inc. Kirby focuses Mac and iOS programming."
 keywords: "ios, mac, programming, stowe, vt, vermont, cocoa, developer, contractor, freelancer"
 google-tracking-id: UA-167605-13
 
 # Career Settings
+# Default career thumbnail image.
 career-img: "img/career/default.jpg"
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: adn
-    url: https://alpha.app.net/kirbyt
-  - title: twitter
-    url: http://twitter.com/kirbyt
-  - title: github
-    url: http://github.com/kirbyt
-  - title: linkedin
-    url: http://www.linkedin.com/in/kirbyturner/
-  - title: rss
-    url: http://www.thecave.com/atom.xml
-
 
 exclude: ["Rakefile"]

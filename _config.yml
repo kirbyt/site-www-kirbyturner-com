@@ -12,3 +12,4 @@ google-tracking-id: UA-167605-13
 career-img: "img/career/default.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+include: ["keybase.txt"]

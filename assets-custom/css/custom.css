@@ -1,0 +1,41 @@
+/* Add here all your css styles (customizations) */
+
+/*Navbar Toggle*/
+/*.header .navbar-toggle {
+  border-color: #5fb611;
+}
+*/
+.header .navbar-toggle .fa {
+  color: #fff;
+  font-size: 19px;
+}
+
+/*.header .navbar-toggle,
+.header .navbar-toggle:hover, 
+.header .navbar-toggle:focus {
+  background: #72c02c;
+  padding: 6px 10px 2px;
+}
+*/
+/*.header .navbar-toggle:hover {
+  background: #5fb611 !important;
+}
+*/
+/*Navbar Menu*/
+.header .navbar-nav > li > a {
+  color: #687074;
+  text-transform: uppercase;
+}
+
+/*.header .navbar-nav > .active > a {
+  color: #72c02c;
+}
+*/
+.header .navbar-nav .a:hover,
+.header .navbar-nav .a:focus {
+  border-bottom-color: #eee;
+}
+
+.service-block-fixed-height {
+  height: 270px;
+}

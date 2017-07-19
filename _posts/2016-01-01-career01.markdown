@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2016
+subtitle:
+image: "img/career/2016.png"
+---
+Worked on exciting client projects such as [CustomViewbook](http://customviewbook.com) and [Project 0.1](https://www.theproject01.com).

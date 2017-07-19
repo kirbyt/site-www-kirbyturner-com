@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2015
+subtitle:
+image: "img/career/2015.png"
+---
+Worked on exciting client projects such as [pingmd](https://www.pingmd.com), [Logline](http://loglineapp.com), and [Letter Opener](https://winmail.help).

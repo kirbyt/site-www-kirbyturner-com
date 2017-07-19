@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2017
+subtitle:
+image: "img/career/2017.png"
+---
+Decided to [try something different](https://www.thecave.com/2017/05/01/im-trying-something-different/). I closed White Peak Software, after 14 great years, and joined [Apple](https://www.apple.com/) as a Software Engineer.

@@ -31,7 +31,7 @@
                 {% endif %}
                 <ul class="list-inline social-buttons">
                     {% for network in page.social %}
-                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+                    <li><a href="{{ network.url }}" rel="me"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
                     {% endfor %}
                 </ul>
               </div>

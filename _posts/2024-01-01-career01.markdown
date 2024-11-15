@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2024
+subtitle:
+image: "img/career/2024.png"
+---
+Wanted more time to snowboard and do what I love, so I joined the team at [Breakpoint Studio](https://breakpointstudio.com) to work on [Slopes](https://getslopes.com), a ski and snowboard activity tracking app.
